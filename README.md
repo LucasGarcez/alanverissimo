@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on rocketseat
+- 🔭 I’m currently studing on rocketseat
 - 🌱 I’m currently learning HTML / CSS / JAVASCRIPT
 - 👯 I’m looking to collaborate on in my studies
 - 🤔 I’m looking for help with god
