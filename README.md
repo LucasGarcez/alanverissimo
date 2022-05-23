@@ -20,6 +20,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=VisualStudioCode)
 
 ## ⚡ GitHub Estatísticas
 
@@ -31,3 +32,5 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
   
 </br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alanverissimo" alt="alanverissimo" /></p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
