@@ -1,5 +1,5 @@
 <h1 align = "justify"> Olá, eu sou o Alan Verissimo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
-<p align = "justify">Aceitei o desafio de estudar programação e irei completá-lo tornando-me Dev e estou em busca de uma oportunidade.</p>
+<p align = "justify">Aceitei o desafio de estudar programação e irei completá-lo tornando-me Dev, e estou em busca de uma oportunidade.</p>
 
 No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
 
