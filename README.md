@@ -3,7 +3,7 @@
 
 No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-verissimo-628130144/)](https://www.linkedin.com/in/alanverissimo-628130144/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanverissimo/)](https://www.linkedin.com/in/alanverissimo/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alan_verissimo@hotmail.com)](mailto:alan_verissimo@hotmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521982609925)
 
