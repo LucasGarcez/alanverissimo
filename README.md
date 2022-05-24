@@ -30,6 +30,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanverissimo&layout=compact&langs_count=7&theme=synthwave"/>
 </div> 
   
+  ##
   
 </br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alanverissimo" alt="alanverissimo" /></p>
