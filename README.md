@@ -34,6 +34,6 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 </br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=alanverissimo" alt="alanverissimo" /></p>
 
-##
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
