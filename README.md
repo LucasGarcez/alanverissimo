@@ -1,7 +1,7 @@
 <h1 align = "justify"> Olá, eu sou o Alan Verissimo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 <p align = "justify">Aceitei o desafio de estudar programação e irei completá-lo tornando-me Dev, e estou em busca de uma oportunidade.</p>
 
-No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias dos ecossistemas citados.
+No momento ampliando meus conhecimentos em Node.js, React.js, React Native e diversas outras tecnologias das linguagens citadas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanverissimo/)](https://www.linkedin.com/in/alanverissimo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanverissimodev@gmail.com)](mailto:alanverissimodev@gmail.com)
