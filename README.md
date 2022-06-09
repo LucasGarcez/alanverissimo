@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 <h1 align = "justify"> Olá, eu sou o Alan Verissimo! <imgrc="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 <p align = "justify">Aceitei o desafio de estudar programação e irei completá-lo tornando-me Dev, e estou em busca de uma oportunidade.</p>
 
