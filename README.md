@@ -9,7 +9,8 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanverissimodev@gmail.com)](mailto:alanverissimodev@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521982609925)
 
-## 🚀 Tecnologias & Conhecimentos
+
+  ## 🚀 Tecnologias & Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
