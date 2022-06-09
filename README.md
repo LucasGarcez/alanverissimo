@@ -10,6 +10,7 @@ No momento ampliando meus conhecimentos em Node.js, React.js, React Native e div
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-0DA204?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521982609925)
 
 
+  
   ## 🚀 Tecnologias & Conhecimentos
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
